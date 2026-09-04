@@ -71,6 +71,6 @@ El sistema de TechCup debe tener:
 ### 3. Patrones de diseño
 
 ### Patron Strategy
-Nombre: Strategy
-tipo de patron: comportamiento
+Nombre: Strategy<br>
+tipo de patron: comportamiento<br>
 justificacion: En este caso escoji strategy ya que como se tienes distintas formas de buscar un tutor dependiendo de la preferencia que uno quiera pues fallo 
