@@ -2,5 +2,5 @@
 
 ## Diagrama C4 TutoECI
 
-![Diagrama](../docs/Contexto.png)
+![Diagrama](docs/Contexto.png)
 
